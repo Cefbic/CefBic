@@ -17,11 +17,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/monsif-bichara-572124240/)" />][linkedin]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://www.linkedin.com/in/monsif-bichara-572124240/" />][linkedin]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/___________
 
 <!--
