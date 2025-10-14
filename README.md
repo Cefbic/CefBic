@@ -6,7 +6,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/CefBic/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/CefBic/programmatic-vulnerability-remediations)**
 - **[Vulnerability Management Program](https://github.com/Cefbic/vuln-scanner-project)**
 
 ## 🚨 Threat Hunting and Security Operations
