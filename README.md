@@ -6,8 +6,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/CefBic/vulnerability-management-program)**
-- **[Vulnerability Management Program](https://github.com/Cefbic/vuln-scanner-project)**
-
+- **[STIG-Implementation-Remediations-Win10](https://github.com/CefBic/vulnerability-management-program)**
+- **[Vulnerability Management Program](https://github.com/Cefbic/STIG-Implementation-Remediations-Win10)**
+  
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Cefbic/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
