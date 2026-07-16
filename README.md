@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Wazuh_Soc_Lab] (https://github.com/Cefbic/Wazuh_Soc_Lab)**
+- **[Wazuh_Soc_Lab](https://github.com/Cefbic/Wazuh_Soc_Lab)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Cefbic/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
 
 <hr/>
